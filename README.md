@@ -2,7 +2,7 @@
 - Software Engineering Director for Prolook Sports / QX Manufacturing Inc. 
 - Techical Lead for the Prolook Customizer Project (https://customizer.prolook.com)
 
-LinkedIn Profile:
+linkedIn profile:
 - [https://www.linkedin.com/in/arthur-abogadil/](https://www.linkedin.com/in/arthur-abogadil/)
 
 email: 
