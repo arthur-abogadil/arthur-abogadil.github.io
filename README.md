@@ -9,7 +9,6 @@ email:
 - **arthur [dot] abogadil [@] gmail [dot] com**
 
 github:
-- (company): [https://github.com/arthur-v-abogadil](https://github.com/arthur-v-abogadil)
 - (personal): [https://github.com/arthur-abogadil](https://github.com/arthur-abogadil)
 
 "With love do all things" - I Corinthians 16:14
